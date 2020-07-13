@@ -1,0 +1,7 @@
+# Executables
+*.exe
+
+
+# Targets Windows & Unix temporary files
+~$*
+*~
